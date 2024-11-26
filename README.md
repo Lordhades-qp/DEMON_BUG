@@ -1,7 +1,8 @@
-# BUG-ONE
+# DEMON_BUG
 Whatsapp bot coded by GOD FORGER
 
-![1EB5DF74-B871-4E24-9622-59C2699C61AA](https://github.com/user-attachments/assets/1fd767ce-9dad-45e6-b718-0df9fdcc7b64)
+![C5088CB0-6344-4C29-BD33-81BAAF418307](https://github.com/user-attachments/assets/2ad7acbe-c3df-4749-9ec7-db68ab4693d0)
+
 
 
 # https://dashboard.render.com/
